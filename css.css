@@ -1,0 +1,17 @@
+.header {
+    background-color: grey;
+    position: relative;
+}
+
+.botton {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list {
+    width: 95px;
+    background-color: silver;
+    position: absolute;
+    top: 23px;
+    left: 40px;
+}
